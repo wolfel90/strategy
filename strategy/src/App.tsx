@@ -1,9 +1,7 @@
 import "./App.css";
 import "./components/canvas/Canvas";
-import { Angle1f } from "./utils/geom/Angle1f";
 import Canvas from "./components/canvas/Canvas";
 import { CanvasMouseEventHandler } from "./utils/CanvasMouseEventHandler";
-import { CanvasRenderingOptions } from "./utils/canvas/CanvasRenderingOptions";
 import { WorldContext } from "./world/WorldContext";
 import { WorldElementSprite } from "./world/elements/WorldElementSprite";
 import { WorldGrid } from "./world/elements/WorldGrid";
@@ -24,9 +22,6 @@ const worldObjectLayer = new WorldLayer("Objects");
 // Terrain. Move Later
 const grassSpriteSrc =
     "/images/canvas_elements/scenery/terrain/grass_green_02.png";
-const roadSpriteSrc =
-    "/images/canvas_elements/scenery/terrain/roads/dirt_road_ew_01.png";
-const wolfSpriteSrc = "/images/canvas_elements/creatures/animals/wolf_01.png";
 
 for (let y = 0; y <= 45; ++y) {
     for (let x = 0; x <= 60; ++x) {

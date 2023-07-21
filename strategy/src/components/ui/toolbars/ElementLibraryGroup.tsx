@@ -1,6 +1,5 @@
 import Button from "../common/Button";
 import FlexBox from "../common/FlexBox";
-import { WorldLayer } from "../../../world/WorldLayer";
 import { useState } from "react";
 import { WorldElementTemplate } from "../../../world/elements/WorldElementTemplate";
 

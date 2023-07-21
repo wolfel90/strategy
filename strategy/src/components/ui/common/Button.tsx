@@ -22,7 +22,12 @@ export default function Button(props: Props): JSX.Element {
             <FlexBox direction="row">
                 {(props.hideLabel !== true && props.label) ?? null}
                 {props.iconSrc != null && (
-                    <img src={props.iconSrc} width={25} height={25}></img>
+                    <img
+                        src={props.iconSrc}
+                        width={25}
+                        height={25}
+                        alt={""}
+                    ></img>
                 )}
             </FlexBox>
         </div>

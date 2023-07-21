@@ -15,12 +15,12 @@ export default function Canvas({
             return;
         }
         const context = canvas.getContext("2d");
-        let frameCount = 0;
+        // let frameCount = 0;
         let animationFrameId;
 
         const render = () => {
             //console.log("Render");
-            frameCount++;
+            // frameCount++;
             if (worldContext !== null) {
                 worldContext.render(context, {
                     canvasRenderingOptions: worldContext.canvasRenderingOptions,
@@ -33,7 +33,7 @@ export default function Canvas({
         return () => {
             window.cancelAnimationFrame(animationFrameId);
         };
-    }, []);
+    }, [worldContext]);
 
     return (
         <canvas

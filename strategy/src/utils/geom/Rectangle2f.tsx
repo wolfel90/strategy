@@ -88,7 +88,7 @@ export class Rectangle2f {
 
     public focalScale(ratio: number, focalPoint: Vector2f): Rectangle2f {
         const diffVector = this.position.vectorTo(focalPoint);
-        const center = this.center;
+        //const center = this.center;
         return Rectangle2f.fromOriginAndDimensions(
             focalPoint.x - this.width * ratio * (diffVector.x / this.width),
             focalPoint.y - this.height * ratio * (diffVector.y / this.height),
