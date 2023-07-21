@@ -12,6 +12,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "ts-loader": "^9.4.2",
+    "uuid": "^9.0.0",
     "web-vitals": "^2.1.4",
     "webpack": "^5.80.0",
     "webpack-cli": "^5.0.2"
