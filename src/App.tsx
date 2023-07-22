@@ -21,7 +21,7 @@ const worldObjectLayer = new WorldLayer("Objects");
 
 // Terrain. Move Later
 const grassSpriteSrc =
-    "/images/canvas_elements/scenery/terrain/grass_green_02.png";
+    "./images/canvas_elements/scenery/terrain/grass_green_02.png";
 
 for (let y = 0; y <= 45; ++y) {
     for (let x = 0; x <= 60; ++x) {

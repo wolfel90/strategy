@@ -6,7 +6,7 @@
             {
                 "id": "6ed1d224-fcde-4fa1-9238-0f70f2c6cb5e",
                 "name": "Grass 2",
-                "spriteSrc": "/images/canvas_elements/scenery/terrain/grass_green_02.png",
+                "spriteSrc": "./images/canvas_elements/scenery/terrain/grass_green_02.png",
                 "size": { "x": 512, "y": 512 }
             }
         ]
@@ -18,37 +18,37 @@
             {
                 "id": "95846da4-0c58-45be-a428-9d889e2f0656",
                 "name": "Road 1",
-                "spriteSrc": "/images/canvas_elements/scenery/terrain/roads/dirt_road_ew_01.png",
+                "spriteSrc": "./images/canvas_elements/scenery/terrain/roads/dirt_road_ew_01.png",
                 "size": { "x": 512, "y": 512 }
             },
             {
                 "id": "bad82e7e-af69-490e-99f5-43565a0c10c4",
                 "name": "Leafy Tree 1",
-                "spriteSrc": "/images/canvas_elements/scenery/foliage/tree_leafy_01.png",
+                "spriteSrc": "./images/canvas_elements/scenery/foliage/tree_leafy_01.png",
                 "size": { "x": 128, "y": 128 }
             },
             {
                 "id": "61bcba11-991f-4489-b046-98ff8be04240",
                 "name": "Leafy Tree 2",
-                "spriteSrc": "/images/canvas_elements/scenery/foliage/tree_leafy_02.png",
+                "spriteSrc": "./images/canvas_elements/scenery/foliage/tree_leafy_02.png",
                 "size": { "x": 128, "y": 128 }
             },
             {
                 "id": "26faaad0-364c-4151-bed0-601870a5bcdf",
                 "name": "Barrel 1",
-                "spriteSrc": "/images/canvas_elements/scenery/city/barrel_01.png",
+                "spriteSrc": "./images/canvas_elements/scenery/city/barrel_01.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "1bebaa41-21ff-4070-89a4-6eaf9853e514",
                 "name": "Chair 1",
-                "spriteSrc": "/images/canvas_elements/scenery/city/chair_01.png",
+                "spriteSrc": "./images/canvas_elements/scenery/city/chair_01.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "0b648e3d-068e-4ce2-9163-9c2ab322a4aa",
                 "name": "Wagon 1",
-                "spriteSrc": "/images/canvas_elements/equipment/vehicles/wagon_01.png",
+                "spriteSrc": "./images/canvas_elements/equipment/vehicles/wagon_01.png",
                 "size": { "x": 256, "y": 256 }
             }
         ]
@@ -60,13 +60,13 @@
             {
                 "id": "50da5202-4586-4dec-a6fe-8480733ec57b",
                 "name": "Horse 1",
-                "spriteSrc": "/images/canvas_elements/creatures/animals/horse_01.png",
+                "spriteSrc": "./images/canvas_elements/creatures/animals/horse_01.png",
                 "size": { "x": 256, "y": 256 }
             },
             {
                 "id": "3f4cb111-7267-4b2c-b810-937bbb4b6f79",
                 "name": "Wolf 1",
-                "spriteSrc": "/images/canvas_elements/creatures/animals/wolf_01.png",
+                "spriteSrc": "./images/canvas_elements/creatures/animals/wolf_01.png",
                 "size": { "x": 128, "y": 128 }
             }
         ]
@@ -78,55 +78,55 @@
             {
                 "id": "61ad2ee0-c71b-4621-b49d-cf4a9e2c7a41",
                 "name": "Arrow Black",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_black.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_black.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "b2c1130a-4344-4b07-bfea-54cd4bf4c16b",
                 "name": "Arrow Blue",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_blue.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_blue.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "f175790e-7b56-4ea6-a9d9-42d7baa7aabd",
                 "name": "Arrow Gray",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_gray.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_gray.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "12d4db72-8907-4172-9c62-7e350cc05b58",
                 "name": "Arrow Green",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_green.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_green.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "50f02a14-e7fb-460b-8168-870767e391ae",
                 "name": "Arrow Orange",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_orange.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_orange.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "f17d6cf3-9087-4d61-bf72-63e6fa56d172",
                 "name": "Arrow Purple",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_purple.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_purple.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "48d8ad18-20dc-4146-8eb5-6b1c775b12a4",
                 "name": "Arrow Red",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_red.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_red.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "4f140d76-05f9-41e3-a69b-4414aa056a4c",
                 "name": "Arrow Teal",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_teal.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_teal.png",
                 "size": { "x": 64, "y": 64 }
             },
             {
                 "id": "d62ed2c2-57bf-4135-907d-a66a5fe7b6f4",
                 "name": "Arrow White",
-                "spriteSrc": "/images/canvas_elements/icons/arrow_white.png",
+                "spriteSrc": "./images/canvas_elements/icons/arrow_white.png",
                 "size": { "x": 64, "y": 64 }
             }
         ]
